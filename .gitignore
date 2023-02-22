@@ -344,3 +344,4 @@ pubspec.lock
 
 # Python
 venv/
+.coverage
